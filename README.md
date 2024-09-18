@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Citrus-Type
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: he/him
